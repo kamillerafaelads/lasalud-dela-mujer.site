@@ -144,10 +144,12 @@ p {
 	text-decoration: none;
 	letter-spacing: 0.4px;
 	cursor: pointer;
+
 }
 
 .article-button:hover {
 	background: #54a73f;
+
 }
 
 /* footer */
